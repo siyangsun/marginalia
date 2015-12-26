@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Siyang Sun's Blog
 email: siyangsun2007@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a second year student at UCLA, studying some combination of Math and Economics. I am interested in Finance, Computation, Data Science, and Graphic Design. Read more about me here: "http://siyangsun.github.io/about" 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://siyangsun.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
