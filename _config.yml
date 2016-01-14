@@ -14,6 +14,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://siyangsun.github.io" # the base hostname & protocol for your site
 linkedin: LinkedIn
 github_username:  siyangsun
+cdn_path: https://cloud.githubusercontent.com/assets
 
 # Build settings
 markdown: kramdown
