@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Blank Canvas Syndrome"
+date:   2016-1-26 1:40:30 -0800
+categories: General
+---
+Blank canvas syndrome. Writers, artists, composers, mathematicians.. Everyone knows how terrifying a blank white page looks. The void stares back at you, daring you to desecrate its pure surface. Anything you type, write, sketch out, or even think about seems unworthy to break its fresh appearance. Once you've gotten into it, though, your experience carries you through. Nothing is ever as hard as starting something new.
+
+The funny thing is, a blank slate has the most potential of all. It can be anything you want it to be. And that's exactly what's so frightening about it.
+
+Some steps I've taken to make it easier for me personally are to just put some things down on the (metaphorical or literal) page just to help myself out. They don't have to be helpful, but they can be. It could be just a doodle, or some quick notes about the ideas I want to convey. From there I can flesh out a skeleton of things to frame whatever I'm doing around. It might be less spontaneous this way, but we can't all be great prodigy artists can we? I recently installed this program called [Carapace](https://www.epicgames.com/community/2012/11/free-art-tool-released-thanks-to-epic-friday/), which is a perspective tool created by Epic Games' art specialists. It is an easy way to generate perspective lines that can be customized and pasted into anything. Seeing the lines helps me visualize what I want to design, and makes me feel less about marking up a clean surface. Another interesting thing to do for anyone interested in industry/concept design, is the "marker first" method. This involves using a very large, low opacity brush (or marker, if you're working in traditional media) to work out the basic forms. [Feng Zhu](https://www.youtube.com/user/FZDSCHOOL) and his design cinema series on YouTube go more into this if you're interested; his methods of dealing with a blank canvas are quite helpful for those wanting to get into his type of work. 
+
+One thing I've used to reduce the intimidation factor on a fresh page is download (and make my own) custom Photoshop brushes that have some kind of texture in them. This helps extract the forms a bit, and works similar to the marker-first method with the added benefit of a bit of texture gifted to us with modern technology. Feng Zhu also talks about using photos in a non-traditional way, by clipping, rotating, and pasting them all across the canvas to generate a sort of random noise that also contains realistic details with the photographic quality of the random shapes. 
+
+I think ultimately the purpose of this is to eliminate the fear of something huge and white staring you in the face, and perhaps even gaining some kind of advantage in the process. There are many ways to get over this, and it all depends on what you're comfortable with. The anxiety goes away once you are comfortable, so the point is to get comfortable. 
