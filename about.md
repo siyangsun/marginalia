@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hey! I'm Siyang. Welcome to my blog.
-You can find out more about me [here](http://siyangsun.github.io/)
+You can find out more about me [here](http://siyangsun.github.io/).
 On this blog I'll generally post about projects or interests, or events in my life I feel I should share!
 
 
