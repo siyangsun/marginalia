@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey! I'm Siyang. Welcome to my blog.
 You can find out more about me [here](http://siyangsun.github.io/).
-On this blog I'll generally post about projects or interests, or events in my life I feel I should share!
+On this blog I'll generally post about projects or interests, or events in my life I feel I should share! Occasionally I will post a random anecdote to stop my writing brain cells from withering away.
 
 
 
