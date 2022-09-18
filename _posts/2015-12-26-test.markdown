@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Hello World!"
-date:   2015-12-26 12:02:50 -0700
-categories: General
----
-Hello! This is my first blog post using Jekyll. I will continue to update this site as well as my main site as I become more familiar with Jekyll and Markdown. For now I am working on changing the style sheet for the Jekyll pages from the default style sheet. You can find out more about Jekyll and static page generation [here][Jekyll_site].
-
-[Jekyll_site]: http://jekyllrb.com/docs/home
