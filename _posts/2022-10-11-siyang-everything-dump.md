@@ -16,12 +16,13 @@ Years later I applied this idea to a beat dump on soundcloud where I'd post musi
 
 Here and there I found myself thinking, why not make a "Siyang everything dump" where I just aggregate EVERYTHING I think about or experience or make into one place? Without having to navigate separate platforms or new identities? Where people can find out about the other stuff I do too (slight overshare: this might have come from some unresolved jack-of-all-trades insecurity where I need to prove that I'm decent at a lot of stuff to accept that I'm not amazing at any one thing)? This became almost something of a meme in my journal in the last few years. 
 
-<img src="{{site.cdn_path}}/13752232/195265522-08a5f141-c4e4-4a34-95c2-5162d897463f.png" alt="Everything." style="width:886px;height:600px;">
+<img src="{{site.cdn_path}/13752232/195270318-d9b34aa7-0458-4d6b-8c9c-3fd2f535a6d3.png" alt="Everything." style="width:886px;height:600px;">
 
 When thinking where to go, I explored a bunch of different tools (many of which I still use):
 - [obsidian vaults](https://obsidian.md/)
 - notion (was a bit too slow and clunky for how i wanted to use it)
 - digital gardens
+- APPLE NOTES (god tier tbh)
 - wholesome finsta or private twitter account
 - [are.na](https://www.are.na/siyang-sun)
 
